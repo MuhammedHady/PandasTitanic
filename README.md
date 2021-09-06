@@ -5,7 +5,9 @@ The Code is used to find:
 1- All males    
 2- All females     
 3- Only Survivors    
-4- All lost Childern under or equal to age 17    
+4- All lost Childern under or equal to age 17  
+5- Getting the number of all Passengers & The Survivors    
+6- Getting the persentage of Survivors
 
 --------------------------------------------------------------------------------------------
 Pandas is a tool kit used to deal with data in database like SQL or data in excel/csv files
